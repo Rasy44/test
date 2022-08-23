@@ -1,0 +1,28 @@
+h1{ color: yellow;
+    text-align: center;
+text-decoration: underline;
+}
+p{  
+    color: black;
+font-size: 40px;
+}
+
+body{ 
+    background-color: blueviolet;
+    
+}
+h2{ background-color: yellow;
+width: fit-content;}
+h3{ background-color: green;
+    width: fit-content;}
+   body{ background-image: url(./images/goku.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   display: flex;
+}
+img{width: 200px;
+height: 200px;
+}
+h{ color: aqua;
+font-size: larger;
+}

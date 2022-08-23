@@ -1,0 +1,119 @@
+header {
+    background-color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+body {
+    text-align: left;
+
+}
+
+h1 {
+    color: burlywood;
+
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: blue;
+}
+
+a {
+    color: grey;
+}
+
+body {
+    background-image: url(./images/blac\ smok.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+
+}
+
+h4 {
+    color: bisque;
+    font-size: larger;
+}
+
+h1 {
+    font-size: larger;
+
+}
+
+p {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 25px;
+    color: burlywood;
+}
+
+a:hover {
+    color: brown;
+    border-bottom: 2px bisque;
+}
+
+main {
+    border: 1px solid salmon;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+}
+
+span {
+    color: black
+}
+
+.circle_div {
+    border: 2px solid rgb(189, 18, 18);
+    background-image: url(./images/cartoon-boy-images-21-removebg.png);
+}
+
+.circle_div:hover {
+    border: 2px solid brown;
+
+}
+
+footer {
+    height: 50px;
+    background-color: salmon;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 80px;
+}
+
+footer:hover {
+    background-color: brown;
+}
+
+.circle_div {
+    border: 2px solid burlywood;
+    border-radius: 50%;
+    overflow: hidden;
+}
